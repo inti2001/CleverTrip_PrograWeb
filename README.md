@@ -5,6 +5,7 @@ Integrantes:
 - Inti Martinez Flores
 
 
+
 ## Descripcion del proyecto
 CleverTrip es un sistema de búsqueda de información turística inteligente, utilizando técnicas de recomendación con inteligencia artificial y filtrado por categorías, que sirva como guía turístico a los usuarios brindando sugerencias de los mejores sitios (restaurantes, hoteles, lugares de interés, etc.) basados en los gustos y preferencias del usuario en función de su ubicación actual, además de un sistema de creación de planes de viaje con el que el usuario puede organizar mejor sus actividades.
 
@@ -15,3 +16,8 @@ El gestor de base de datos utilizado es Firestore de Forebase, proporcionado por
 Para la IA se usa Inteligencia artificial aplicada mediante algoritmos de recomendación. Para ofrecer sugerencias personalizadas a los usuarios. Estos algoritmos pueden analizar los intereses, preferencias y comportamientos de los usuarios, así como los datos históricos, para recomendar destinos, actividades, restaurantes u otros servicios turísticos que se ajusten a sus gustos.
 
 El algoritmo de recomendaciones de filtrado colaborativo, se basa en el comportamiento y las preferencias de un grupo de usuarios para hacer recomendaciones a un usuario en particular. Opera mediante la recopilación de preferencias o gustos de un mismo consumidor comparados con los datos suministrados por personas con patrones similares. Este algoritmo consta de dos pasos principales, primero se calcula un rango de similitud entre el usuario objetivo y otros usuarios mediante el coeficiente de correlación de Pearson, y como segundo paso se clasifican los usuarios más parecidos a el usuario objetivo para así poder recomendar elementos guardados o calificados por los usuarios más parecidos.
+
+
+##Anexos
+Link de deploy: https://clevertrip-59cb1.web.app/
+Presentacion del proyecto:

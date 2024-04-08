@@ -19,5 +19,5 @@ El algoritmo de recomendaciones de filtrado colaborativo, se basa en el comporta
 
 
 ##Anexos
-Link de deploy: https://clevertrip-59cb1.web.app/
-Presentacion del proyecto:
+- Link de deploy: https://clevertrip-59cb1.web.app/
+- Presentacion del proyecto:

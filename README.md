@@ -1,5 +1,11 @@
-# CleverTrip_PrograWeb   
+# Proyecto Programacion Web: CleverTrip
 
+Integrantes:
+- Gustavo Hernández Cano 220791071
+- Inti Martinez Flores
+
+
+## Descripcion del proyecto
 CleverTrip es un sistema de búsqueda de información turística inteligente, utilizando técnicas de recomendación con inteligencia artificial y filtrado por categorías, que sirva como guía turístico a los usuarios brindando sugerencias de los mejores sitios (restaurantes, hoteles, lugares de interés, etc.) basados en los gustos y preferencias del usuario en función de su ubicación actual, además de un sistema de creación de planes de viaje con el que el usuario puede organizar mejor sus actividades.
 
 Este sistema esta planteado como una aplicacion web, la cual es programada con la ayuda del framework de AngularJS, utilizando los lenguajes de HTML, CSS y Typescript, ademas del uso de Javascript en ciertos servicios que utiliza la app, el Backend esta programado con node.js, aprovechando las ventajas que brindan los servicios de Funciones Lambda y API Gateway de AWS, mediante estos servicios se crea un sistema distribuido basado en microservicios, los cuals se encargan de realizar los movimientos en la base de datos como tambien las consultas a la API de Google.

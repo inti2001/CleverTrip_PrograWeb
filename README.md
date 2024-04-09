@@ -20,4 +20,4 @@ El sistema de recomendaciones de filtrado colaborativo, se basa en el comportami
 
 ##Anexos
 - Link de deploy: https://clevertrip-59cb1.web.app/
-- Presentacion del proyecto: 
+- Presentacion del proyecto: https://github.com/inti2001/CleverTrip_PrograWeb/blob/master/CleverTrip%20Presentacion.pptx

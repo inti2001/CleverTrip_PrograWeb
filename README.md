@@ -17,6 +17,22 @@ Para la IA se usa Inteligencia artificial aplicada mediante algoritmos de recome
 
 El sistema de recomendaciones de filtrado colaborativo, se basa en el comportamiento y las preferencias de un grupo de usuarios para hacer recomendaciones a un usuario en particular. Opera mediante la recopilación de preferencias o gustos de un mismo consumidor comparados con los datos suministrados por personas con patrones similares. Este algoritmo consta de dos pasos principales, primero se calcula un rango de similitud entre el usuario objetivo y otros usuarios mediante el algoritmo de distancia euclidiana que sirve para comparar distintos conjuntos de datos, y como segundo paso se clasifican los usuarios más parecidos al usuario objetivo para así poder recomendar elementos guardados o calificados por los usuarios más parecidos.
 
+## Guia de despliegue:
+En CMD y en la carpeta del proyecto
+Iniciar sesion en firebase
+- firebase login
+
+Inicializar firebase en el proyecto
+- firebase init
+
+- Seleccionar la opcion de Hostiong: Configure files for firebase hosting
+- Seleccionar proyecto de firebase a utilizar
+
+Construir proyecto
+- ng build
+
+Hacer deploy del proyecto
+- firebase deploy
 
 ##Anexos
 - Link de deploy: https://clevertrip-59cb1.web.app/

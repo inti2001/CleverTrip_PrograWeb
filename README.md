@@ -22,20 +22,21 @@ Inicio de Sesión <br>
 <img width="734" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/78da8f3f-743a-423b-93da-c830a28331d9">
 
 Registro <br>
-<img width="735" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/3fb57de0-f1fa-4219-9294-acc3fe2bec9e">
+<img width="734" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/3fb57de0-f1fa-4219-9294-acc3fe2bec9e">
 
 Principal <br>
-<img width="742" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/be6e40d0-82c5-4d28-9933-58dbef3cf566">
+<img width="734" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/be6e40d0-82c5-4d28-9933-58dbef3cf566">
 
 Resultados de busqueda y filtrado <br>
-<img width="605" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/f10cd1a7-0c4f-465a-b3bc-9d3d60df457c">
+<img width="734" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/f10cd1a7-0c4f-465a-b3bc-9d3d60df457c">
 
 Dashboard <br>
-<img width="569" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/8f33639d-a5a4-4164-816d-4146b5f42417">
+<img width="734" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/8f33639d-a5a4-4164-816d-4146b5f42417">
 
 Planes de viaje <br>
-<img width="311" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/77e05878-d911-4396-a055-ed9923cddfab">
-<img width="310" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/fb3104b1-b58b-4ec7-a077-81a69c8119f9">
+<img width="734" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/77e05878-d911-4396-a055-ed9923cddfab">
+<br>
+<img width="734" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/fb3104b1-b58b-4ec7-a077-81a69c8119f9">
 
 <br>
 ## Guia de despliegue:

@@ -17,6 +17,27 @@ Para la IA se usa Inteligencia artificial aplicada mediante algoritmos de recome
 
 El sistema de recomendaciones de filtrado colaborativo, se basa en el comportamiento y las preferencias de un grupo de usuarios para hacer recomendaciones a un usuario en particular. Opera mediante la recopilación de preferencias o gustos de un mismo consumidor comparados con los datos suministrados por personas con patrones similares. Este algoritmo consta de dos pasos principales, primero se calcula un rango de similitud entre el usuario objetivo y otros usuarios mediante el algoritmo de distancia euclidiana que sirve para comparar distintos conjuntos de datos, y como segundo paso se clasifican los usuarios más parecidos al usuario objetivo para así poder recomendar elementos guardados o calificados por los usuarios más parecidos.
 
+##Sistema
+Inicio de Sesión
+<img width="734" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/78da8f3f-743a-423b-93da-c830a28331d9">
+
+Registro
+<img width="735" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/3fb57de0-f1fa-4219-9294-acc3fe2bec9e">
+
+Principal
+<img width="742" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/be6e40d0-82c5-4d28-9933-58dbef3cf566">
+
+Resultados de busqueda y filtrado
+<img width="605" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/f10cd1a7-0c4f-465a-b3bc-9d3d60df457c">
+
+Dashboard 
+<img width="569" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/8f33639d-a5a4-4164-816d-4146b5f42417">
+
+Planes de viaje
+<img width="311" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/77e05878-d911-4396-a055-ed9923cddfab">
+<img width="310" alt="image" src="https://github.com/inti2001/CleverTrip_PrograWeb/assets/58715706/fb3104b1-b58b-4ec7-a077-81a69c8119f9">
+
+
 ## Guia de despliegue:
 En CMD y en la carpeta del proyecto
 Iniciar sesion en firebase
